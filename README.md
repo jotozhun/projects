@@ -6,6 +6,9 @@ I developed it alone for the world's cup of 2022 for a local sports radio.
 Since the code is private, because is not mine, I'm sharing one of the videos I did at the time for development.
 https://www.youtube.com/watch?v=1QIbpjjTBzk
 
+https://www.youtube.com/watch?v=ZS4dvnNfYhA
+
+
 ### Ecuadorian contest called DevUps - 2022
 I developed this game in a month or so to participate in a contest with a company called GESIN. We reached third place.
 Github repository: https://github.com/jotozhun/Ecuadorian_Contest
